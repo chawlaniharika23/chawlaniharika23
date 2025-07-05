@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*y6bMVrvXVlgbPuSTGw6osw.png)](https://niharikachawla.io)
 <h1 align="center">Hi 👋, I'm Niharika Chawla</h1?
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chawlaniharika23&label=Profile%20views&color=0e75b6&style=flat" alt="chawlaniharika23" /> </p>
